@@ -5,6 +5,7 @@ import org.json.JSONException;
 import org.json.JSONObject;
 
 import java.util.ArrayList;
+//Class that handles JSON data parsing
 
 public class JsonService {
 
