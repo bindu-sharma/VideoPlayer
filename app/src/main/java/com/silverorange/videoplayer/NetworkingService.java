@@ -14,6 +14,8 @@ import java.net.URL;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
+//Class responsible for fetching data from an API
+
 public class NetworkingService {
 
         String url = "http://localhost:4000/videos";
