@@ -1,5 +1,5 @@
 package com.silverorange.videoplayer;
-
+// Structure of the data to be represemted to the user
 public class VedioItem {
     String vedio;
     String description;
